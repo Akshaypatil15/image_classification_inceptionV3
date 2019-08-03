@@ -1,0 +1,10 @@
+htcBack
+htcFront
+iphoneBack
+iphoneFront
+motoBack
+motoFront
+samsungBack
+samsungFront
+xiaomiBack
+xiaomiFront
